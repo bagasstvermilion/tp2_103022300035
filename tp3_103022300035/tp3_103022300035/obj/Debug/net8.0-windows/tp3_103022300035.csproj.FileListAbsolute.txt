@@ -1,0 +1,17 @@
+C:\Users\bagas\OneDrive\Dokumen\Tugas Telkom\Tugas Semester 4\KPL\Minggu TP 3\tp2_103022300035\tp3_103022300035\tp3_103022300035\bin\Debug\net8.0-windows\tp3_103022300035.exe
+C:\Users\bagas\OneDrive\Dokumen\Tugas Telkom\Tugas Semester 4\KPL\Minggu TP 3\tp2_103022300035\tp3_103022300035\tp3_103022300035\bin\Debug\net8.0-windows\tp3_103022300035.deps.json
+C:\Users\bagas\OneDrive\Dokumen\Tugas Telkom\Tugas Semester 4\KPL\Minggu TP 3\tp2_103022300035\tp3_103022300035\tp3_103022300035\bin\Debug\net8.0-windows\tp3_103022300035.runtimeconfig.json
+C:\Users\bagas\OneDrive\Dokumen\Tugas Telkom\Tugas Semester 4\KPL\Minggu TP 3\tp2_103022300035\tp3_103022300035\tp3_103022300035\bin\Debug\net8.0-windows\tp3_103022300035.dll
+C:\Users\bagas\OneDrive\Dokumen\Tugas Telkom\Tugas Semester 4\KPL\Minggu TP 3\tp2_103022300035\tp3_103022300035\tp3_103022300035\bin\Debug\net8.0-windows\tp3_103022300035.pdb
+C:\Users\bagas\OneDrive\Dokumen\Tugas Telkom\Tugas Semester 4\KPL\Minggu TP 3\tp2_103022300035\tp3_103022300035\tp3_103022300035\obj\Debug\net8.0-windows\tp3_103022300035.Form1.resources
+C:\Users\bagas\OneDrive\Dokumen\Tugas Telkom\Tugas Semester 4\KPL\Minggu TP 3\tp2_103022300035\tp3_103022300035\tp3_103022300035\obj\Debug\net8.0-windows\tp3_103022300035.csproj.GenerateResource.cache
+C:\Users\bagas\OneDrive\Dokumen\Tugas Telkom\Tugas Semester 4\KPL\Minggu TP 3\tp2_103022300035\tp3_103022300035\tp3_103022300035\obj\Debug\net8.0-windows\tp3_103022300035.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bagas\OneDrive\Dokumen\Tugas Telkom\Tugas Semester 4\KPL\Minggu TP 3\tp2_103022300035\tp3_103022300035\tp3_103022300035\obj\Debug\net8.0-windows\tp3_103022300035.AssemblyInfoInputs.cache
+C:\Users\bagas\OneDrive\Dokumen\Tugas Telkom\Tugas Semester 4\KPL\Minggu TP 3\tp2_103022300035\tp3_103022300035\tp3_103022300035\obj\Debug\net8.0-windows\tp3_103022300035.AssemblyInfo.cs
+C:\Users\bagas\OneDrive\Dokumen\Tugas Telkom\Tugas Semester 4\KPL\Minggu TP 3\tp2_103022300035\tp3_103022300035\tp3_103022300035\obj\Debug\net8.0-windows\tp3_103022300035.csproj.CoreCompileInputs.cache
+C:\Users\bagas\OneDrive\Dokumen\Tugas Telkom\Tugas Semester 4\KPL\Minggu TP 3\tp2_103022300035\tp3_103022300035\tp3_103022300035\obj\Debug\net8.0-windows\tp3_103022300035.sourcelink.json
+C:\Users\bagas\OneDrive\Dokumen\Tugas Telkom\Tugas Semester 4\KPL\Minggu TP 3\tp2_103022300035\tp3_103022300035\tp3_103022300035\obj\Debug\net8.0-windows\tp3_103022300035.dll
+C:\Users\bagas\OneDrive\Dokumen\Tugas Telkom\Tugas Semester 4\KPL\Minggu TP 3\tp2_103022300035\tp3_103022300035\tp3_103022300035\obj\Debug\net8.0-windows\refint\tp3_103022300035.dll
+C:\Users\bagas\OneDrive\Dokumen\Tugas Telkom\Tugas Semester 4\KPL\Minggu TP 3\tp2_103022300035\tp3_103022300035\tp3_103022300035\obj\Debug\net8.0-windows\tp3_103022300035.pdb
+C:\Users\bagas\OneDrive\Dokumen\Tugas Telkom\Tugas Semester 4\KPL\Minggu TP 3\tp2_103022300035\tp3_103022300035\tp3_103022300035\obj\Debug\net8.0-windows\tp3_103022300035.genruntimeconfig.cache
+C:\Users\bagas\OneDrive\Dokumen\Tugas Telkom\Tugas Semester 4\KPL\Minggu TP 3\tp2_103022300035\tp3_103022300035\tp3_103022300035\obj\Debug\net8.0-windows\ref\tp3_103022300035.dll
